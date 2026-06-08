@@ -18,3 +18,9 @@ To understand how real programming logic works using simple Python concepts.
 
 ## 📌 Status
 Beginner project (Work in progress)
+
+---
+
+## 👨‍💻 Author
+Harsh Mishra  
+Aspiring Software Engineer | India
